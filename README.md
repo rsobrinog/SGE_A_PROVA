@@ -1,2 +1,4 @@
 # SGE_A_PROVA
-Aquest repo serveix per les classe sde DAM1A
+Aquest repo serveix per les classes de DAM1 A
+
+## Introducció
